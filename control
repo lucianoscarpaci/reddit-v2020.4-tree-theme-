@@ -1,0 +1,9 @@
+Package: com.lucianoscarpaci.Redditv20204TreesTheme
+Name: Reddit v2020.4 🌲TreesTheme🌲
+Author: lucianoscarpaci
+Description: 
+Depends: mobilesubstrate
+Maintainer: lucianoscarpaci
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
